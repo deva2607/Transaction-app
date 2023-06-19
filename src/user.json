@@ -1,0 +1,20 @@
+[
+    {
+        "name":"Customer A",
+        "id": "0001",
+        "role":"customer",
+        "address":"OMR",
+        "phone":"000023234",
+        "userName":"customer_a",
+        "password":"12345"
+    },
+    {
+        "name":"Customer B",
+        "id": "0002",
+        "role":"admin",
+        "address":"OMR",
+        "phone":"000023234",
+        "userName":"customer_b",
+        "password":"12345"
+    }
+]
